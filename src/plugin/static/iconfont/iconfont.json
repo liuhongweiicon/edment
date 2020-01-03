@@ -1,0 +1,72 @@
+{
+  "id": "1573160",
+  "name": "plugin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "vue插件使用icon",
+  "glyphs": [
+    {
+      "icon_id": "2792137",
+      "name": "左箭头",
+      "font_class": "right",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6706241",
+      "name": "放大",
+      "font_class": "fangda1",
+      "unicode": "e97b",
+      "unicode_decimal": 59771
+    },
+    {
+      "icon_id": "8084588",
+      "name": " 重置",
+      "font_class": "zhongzhi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "8725067",
+      "name": "左箭头",
+      "font_class": "arrow-left",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8947123",
+      "name": "缩小",
+      "font_class": "suoxiao1",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "9327232",
+      "name": "左转",
+      "font_class": "zuozhuan",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "9327233",
+      "name": "右转",
+      "font_class": "youzhuan",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "9402933",
+      "name": "箭头-右",
+      "font_class": "changyongicon-2",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "9402936",
+      "name": "箭头-左",
+      "font_class": "changyongicon-1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
